@@ -9,5 +9,9 @@ Pueden hacer lo que quieran...
 ## Actualizado desde github
 Este es un mensaje editado complete desde github
 
+<<<<<<< HEAD
 ### Estos son cambios nuevos desde github
 ### Estos son cambios nuevos desde mi repositorio local
+=======
+### Estos son cambios nuevos desde mi repositorio local
+>>>>>>> bbe655c (Readmme unificado con origin/master)
